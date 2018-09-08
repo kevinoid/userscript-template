@@ -1,6 +1,10 @@
 extends: "../.eslintrc.yaml"
 
 env:
-    mocha: true
+  ## disable unwanted browser env from ../.eslintrc.yaml
+  # Note: Only works for ESLint 2+: https://github.com/eslint/eslint/issues/3915
+  browser: false
+  mocha: true
+  node: true
 
 # vi: set sts=2 sw=2 et ft=yaml:
