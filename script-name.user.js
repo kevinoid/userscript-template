@@ -1,3 +1,4 @@
+/* eslint-disable max-len */
 // ==UserScript==
 // @name        Script name
 // @namespace   https://kevinlocke.name/userscripts
@@ -8,6 +9,7 @@
 // @grant       none
 // @supportURL  https://github.com/kevinoid/userscript-template
 // ==/UserScript==
+/* eslint-enable max-len */
 
 'use strict';
 
