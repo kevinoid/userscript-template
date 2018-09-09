@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Script name
-// @namespace   https://kevinlocke.name/userscripts/
+// @namespace   https://kevinlocke.name/userscripts
 // @description Script description
 // @match       <all_urls>
 // @version     0.0.1
